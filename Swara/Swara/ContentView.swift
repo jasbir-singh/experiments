@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// Following the tutorial here: https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views
 struct ContentView: View {
     var body: some View {
         VStack {
